@@ -124,7 +124,7 @@ ORDER BY year
 
 ``` 
 
-__Results/ Findings:__ 
+# Results/ Findings:
 
 The Analysis Results is summarised as follows: 
 
@@ -139,7 +139,7 @@ The best performing region is the Northeast Region , accounting for over 33 % pe
 The company’s sales have been steadily increasing over the past years  with a noticeable peak in the holiday season in  2016, followed by a sudden decline in sales from 2017.  
 
 
-__Recommendations:__ 
+# Recommendations:
 Based on the findings/results of this  data analysis project, I strongly  recommend the following actions : 
 The company should focus on expanding and promoting the smartphone product category. 
 The company should invest in marketing and promotions during peak sales season to maximise revenue. 
